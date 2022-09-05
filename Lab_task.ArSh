@@ -1,0 +1,272 @@
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ mkdir Ih-Labs
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ mkdir IH-Labs
+mkdir: cannot create directory ‘IH-Labs’: File exists
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ ls
+ 1_variables_operators.ipynb
+'2_conditional_statements. Exercises.ipynb'
+ 3.1_data_structures_lists.Exercises.ipynb
+ 3.2_data_structures_dictionaries.Exercises.ipynb
+'3D Objects'/
+ 4_iterations.Exercise.ipynb
+'5_pseudocode. Exercise.ipynb'
+ 6_functions_intro_v2.Exercise.ipynb
+ Alireza/
+ Anwendungsdaten@
+ AppData/
+ Apple/
+'Application Data'@
+'Calibre Library'/
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(1).zip.egt'
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(2).zip.egt'
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(3).zip.egt'
+ Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli.zip.egt
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli_(2).zip.egt'
+ Desktop/
+ Desktop.pem
+ Documents/
+ Downloads/
+ Dropbox/
+ Druckumgebung@
+'Eigene Dateien'@
+'Familiefoto'\''s(1).pdf.egt'
+"Familiefoto's.pdf"
+'Familierelaties en stamboom.versie2(1).pdf'
+'Familierelaties en stamboom.versie2.pdf'
+ Favorites/
+ HP/
+ Ih-Labs/
+ IntelGraphicsProfiles/
+ Klok.NiG-kopieerblad3.pdf
+ Links/
+'Local Settings'@
+'Lokale Einstellungen'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.0.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.1.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.2.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.blf
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TM.blf
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TMContainer00000000000000000002.regtrans-ms
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TM.blf
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ Netzwerkumgebung@
+'Note 15_ wonen - stoppen - komen(1).pdf'
+'Note 15_ wonen - stoppen - komen.pdf'
+'Note 24_ Dutch modal verbs - the easy way.pdf'
+'Note 26_ Pluralis van het substantief_v2(1).pdf'
+'Note 26_ Pluralis van het substantief_v2.pdf'
+'Note 27_ Dutch modal verbs - the hard way.pdf'
+ OneDrive/
+ Persepolis/
+ Pictures/
+ PrintHood@
+ REACHit/
+ Recent@
+ Roaming/
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Startmenü@
+ Templates@
+ Untitled.ipynb
+ Untitled1.ipynb
+ Untitled2.ipynb
+ Untitled3.ipynb
+ Untitled4.ipynb
+ Untitled5.ipynb
+ Untitled6.ipynb
+ Untitled7.ipynb
+ Untitled8.ipynb
+ Untitled9.ipynb
+'Variables and Operators.Exercise.ipynb'
+ Videos/
+ Vorlagen@
+'Vragen les 1en2.NiG-kopieerblad4.pdf'
+ ali.ipynb
+ file-1.txt
+ file-2.txt
+ file-3.txt
+ hello.txt
+ hello2.text
+ ironhack2.html
+'measures_of_central_tendency. Exercise  .ipynb'
+ measures_of_dispersion.exercises.ipynb
+ new-file.fileExtension
+ new-folder/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+'opera autoupdate'/
+'or.2_conditional_statements (1).ipynb'
+ perspolis-copies/
+ tempo/
+ uncool.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ ls -t
+ Ih-Labs/
+ Downloads/
+ NTUSER.DAT
+ Desktop/
+ tempo/
+ perspolis-copies/
+ hello2.text
+ hello.txt
+ Persepolis/
+ Untitled9.ipynb
+ Untitled8.ipynb
+ Untitled7.ipynb
+ Untitled6.ipynb
+ measures_of_dispersion.exercises.ipynb
+'measures_of_central_tendency. Exercise  .ipynb'
+ Untitled5.ipynb
+ Untitled4.ipynb
+ Untitled3.ipynb
+ Untitled2.ipynb
+ 6_functions_intro_v2.Exercise.ipynb
+'5_pseudocode. Exercise.ipynb'
+ 3.2_data_structures_dictionaries.Exercises.ipynb
+ 3.1_data_structures_lists.Exercises.ipynb
+'2_conditional_statements. Exercises.ipynb'
+'or.2_conditional_statements (1).ipynb'
+ 4_iterations.Exercise.ipynb
+'Variables and Operators.Exercise.ipynb'
+ 1_variables_operators.ipynb
+ file-3.txt
+ file-2.txt
+ file-1.txt
+ ironhack2.html
+ uncool.txt
+ new-file.fileExtension
+ new-folder/
+ Documents/
+ Untitled.ipynb
+ ali.ipynb
+ Alireza/
+ Untitled1.ipynb
+ Videos/
+ Music/
+ Pictures/
+'3D Objects'/
+ OneDrive/
+ HP/
+ Searches/
+ Links/
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TMContainer00000000000000000002.regtrans-ms
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TM.blf
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.1.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.2.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.0.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.blf
+'Saved Games'/
+ Favorites/
+ Contacts/
+ IntelGraphicsProfiles/
+ ntuser.ini
+ AppData/
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TM.blf
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+'Application Data'@
+ Cookies@
+'Local Settings'@
+'My Documents'@
+ NetHood@
+ PrintHood@
+ Recent@
+ SendTo@
+'Start Menu'@
+ Templates@
+'Calibre Library'/
+'Note 24_ Dutch modal verbs - the easy way.pdf'
+'Note 26_ Pluralis van het substantief_v2(1).pdf'
+'Note 26_ Pluralis van het substantief_v2.pdf'
+'Note 27_ Dutch modal verbs - the hard way.pdf'
+ Dropbox/
+'Familiefoto'\''s(1).pdf.egt'
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(3).zip.egt'
+'Note 15_ wonen - stoppen - komen(1).pdf'
+'Note 15_ wonen - stoppen - komen.pdf'
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(2).zip.egt'
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(1).zip.egt'
+ Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli.zip.egt
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli_(2).zip.egt'
+'Familierelaties en stamboom.versie2(1).pdf'
+ Klok.NiG-kopieerblad3.pdf
+'Vragen les 1en2.NiG-kopieerblad4.pdf'
+"Familiefoto's.pdf"
+'Familierelaties en stamboom.versie2.pdf'
+ Apple/
+'Creative Cloud Files'/
+'opera autoupdate'/
+ Desktop.pem
+ Anwendungsdaten@
+ Druckumgebung@
+'Eigene Dateien'@
+'Lokale Einstellungen'@
+ Netzwerkumgebung@
+ Startmenü@
+ Vorlagen@
+ MicrosoftEdgeBackups/
+ REACHit/
+ Roaming/
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ cd Ih-Labs
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs
+$ git clone https://github.com/ShahAliR/lab-bash.git
+Cloning into 'lab-bash'...
+remote: Enumerating objects: 40, done.
+remote: Counting objects: 100% (23/23), done.
+remote: Compressing objects: 100% (13/13), done.
+remote: Total 40 (delta 14), reused 10 (delta 10), pack-reused 17
+Receiving objects: 100% (40/40), 11.61 KiB | 699.00 KiB/s, done.
+Resolving deltas: 100% (14/14), done.
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs
+$ ls
+lab-bash/
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs
+$ cd lab-bash
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash (master)
+$ ls
+exercices/  inputs/  lorem/  lorem-copy/  outputs/  readme.md
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash (master)
+$ echo "Hello world"
+Hello world
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash (master)
+$ mkdir new_dir
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash (master)
+$
