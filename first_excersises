@@ -1,0 +1,409 @@
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ ls
+ 1_variables_operators.ipynb
+'2_conditional_statements. Exercises.ipynb'
+ 3.1_data_structures_lists.Exercises.ipynb
+ 3.2_data_structures_dictionaries.Exercises.ipynb
+'3D Objects'/
+ 4_iterations.Exercise.ipynb
+'5_pseudocode. Exercise.ipynb'
+ 6_functions_intro_v2.Exercise.ipynb
+ Alireza/
+ Anwendungsdaten@
+ AppData/
+ Apple/
+'Application Data'@
+'Calibre Library'/
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(1).zip.egt'
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(2).zip.egt'
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli(3).zip.egt'
+ Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli.zip.egt
+'Cursus_Nederlands_-_materiaal_voor_donderdag_16_juli_(2).zip.egt'
+ Desktop/
+ Desktop.pem
+ Documents/
+ Downloads/
+ Dropbox/
+ Druckumgebung@
+'Eigene Dateien'@
+'Familiefoto'\''s(1).pdf.egt'
+"Familiefoto's.pdf"
+'Familierelaties en stamboom.versie2(1).pdf'
+'Familierelaties en stamboom.versie2.pdf'
+ Favorites/
+ HP/
+ Ih-Labs/
+ IntelGraphicsProfiles/
+ Klok.NiG-kopieerblad3.pdf
+'L. 1.02a Python Review.ipynb'
+ Links/
+'Local Settings'@
+'Lokale Einstellungen'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.0.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.1.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.2.regtrans-ms
+ NTUSER.DAT{4e5565bf-feb3-11ea-af96-f763f8c57836}.TxR.blf
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TM.blf
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{4e5565c0-feb3-11ea-af96-f763f8c57836}.TMContainer00000000000000000002.regtrans-ms
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TM.blf
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{dcc93de9-0247-11eb-afa2-4845207bb857}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ Netzwerkumgebung@
+'Note 15_ wonen - stoppen - komen(1).pdf'
+'Note 15_ wonen - stoppen - komen.pdf'
+'Note 24_ Dutch modal verbs - the easy way.pdf'
+'Note 26_ Pluralis van het substantief_v2(1).pdf'
+'Note 26_ Pluralis van het substantief_v2.pdf'
+'Note 27_ Dutch modal verbs - the hard way.pdf'
+ OneDrive/
+ Persepolis/
+ Pictures/
+ PrintHood@
+ REACHit/
+ Recent@
+ Roaming/
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Startmenü@
+ Templates@
+ Untitled.ipynb
+ Untitled1.ipynb
+ Untitled2.ipynb
+ Untitled3.ipynb
+ Untitled4.ipynb
+ Untitled5.ipynb
+ Untitled6.ipynb
+ Untitled7.ipynb
+ Untitled8.ipynb
+ Untitled9.ipynb
+'Variables and Operators.Exercise.ipynb'
+ Videos/
+ Vorlagen@
+'Vragen les 1en2.NiG-kopieerblad4.pdf'
+ ali.ipynb
+ file-1.txt
+ file-2.txt
+ file-3.txt
+ hello.txt
+ hello2.text
+ ironhack2.html
+'measures_of_central_tendency. Exercise  .ipynb'
+ measures_of_dispersion.exercises.ipynb
+ new-file.fileExtension
+ new-folder/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+'opera autoupdate'/
+'or.2_conditional_statements (1).ipynb'
+ perspolis-copies/
+ tempo/
+ uncool.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ cd Ih-Labs
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs (main)
+$ ls
+AlirezaIron/  README.md  lab-bash/
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs (main)
+$ cd lab-bash
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash (master)
+$ ls
+Lab_task.ArSh  exercices/  inputs/  lorem/  lorem-copy/  outputs/  readme.md
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash (master)
+$ cd lorem
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp sed.txt .. /lorem-copy/
+cp: target '/lorem-copy/' is not a directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp sed.txt ../lorem-copy
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp lorem-copy
+cp: missing destination file operand after 'lorem-copy'
+Try 'cp --help' for more information.
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cd lorem-copy
+bash: cd: lorem-copy: No such file or directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cd ../lorem-copy
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ ls
+at.txte  dummy_file.txt  lorem.txt  sed.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ cd ../lorem
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ ls
+at.txt  at.txte  lorem.txt  sed.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte  dummy_file.txt ../lorem-copy
+cp: cannot stat 'dummy_file.txt': No such file or directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte  dummy_file.txt ../lorem-copy:
+cp: target '../lorem-copy:' is not a directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte  dummy_file.txt ../lorem-copy;
+cp: cannot stat 'dummy_file.txt': No such file or directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte ; dummy_file.txt ../lorem-copy
+cp: missing destination file operand after 'at.txte'
+Try 'cp --help' for more information.
+bash: dummy_file.txt: command not found
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ ls
+at.txt  at.txte  lorem.txt  sed.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte ; dummy_file.txt  lab-bash/lorem-copy
+cp: missing destination file operand after 'at.txte'
+Try 'cp --help' for more information.
+bash: dummy_file.txt: command not found
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte ; dummy_file.txt  lorem-copy
+cp: missing destination file operand after 'at.txte'
+Try 'cp --help' for more information.
+bash: dummy_file.txt: command not found
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte lorem-copy
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte;dummy_file.txt  lorem-copy
+cp: missing destination file operand after 'at.txte'
+Try 'cp --help' for more information.
+bash: dummy_file.txt: command not found
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte dummy_file.txt; lorem-copy
+bash: lorem-copy: command not found
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte dummy_file.txt; lorem-copy;
+bash: lorem-copy: command not found
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte dummy_file.txt ^C
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte dummy_file.txt; lorem-copy;^C
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cp at.txte dummy_file.txt ~/Ih-Labs/lab-bash/lorem-copy
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ ls
+at.txt  at.txte  dummy_file.txt  lorem-copy  lorem.txt  sed.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cd lorem-copy
+bash: cd: lorem-copy: Not a directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cd ../lorem-copy
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ ls
+at.txte  dummy_file.txt  lorem.txt  sed.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ cat set.txt
+cat: set.txt: No such file or directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ cat sed.txt
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
+vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Homo homini lupus
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ cd ../lorem
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ ls
+at.txt  at.txte  dummy_file.txt  lorem-copy  lorem.txt  sed.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cat at.tet lorem.txt
+cat: at.tet: No such file or directory
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cat at.txt lorem.txt
+At vero eos ET accusamus ET iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+deleniti atque corrupti quos dolores ET quas molestias excepturi sint occaecati cupiditate non
+provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum ET dolorum fuga.
+Et harum quidem rerum facilis est ET expedita distinctio.
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
+maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+Temporibus autem quibusdam ET aut officiis debitis aut rerum necessitatibus saepe eveniET
+ut ET voluptates repudiandae sint ET molestiae non recusandae.
+Itaque earum rerum hic tenETur a sapiente delectus, ut aut reiciendis voluptatibus maiores
+alias consequatur aut perferendis doloribus asperiores repellat
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cd ../lorem-copy
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ cat sed.txt if>3
+cat: if: No such file or directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ cat sed.txt
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
+vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Homo homini lupus
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ head --lines=3 sed.txt
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ tail --lines=3 sed.txt
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
+vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Homo homini lupus
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ echo "Homo homini lupus" >> sed.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ tail --lines=3 sed.txt
+nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
+vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Homo homini lupus
+Homo homini lupus
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem-copy (master)
+$ cd ../lorem
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ sed "s/et/ET/g" at.txt
+At vero eos ET accusamus ET iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+deleniti atque corrupti quos dolores ET quas molestias excepturi sint occaecati cupiditate non
+provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum ET dolorum fuga.
+Et harum quidem rerum facilis est ET expedita distinctio.
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
+maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+Temporibus autem quibusdam ET aut officiis debitis aut rerum necessitatibus saepe eveniET
+ut ET voluptates repudiandae sint ET molestiae non recusandae.
+Itaque earum rerum hic tenETur a sapiente delectus, ut aut reiciendis voluptatibus maiores
+alias consequatur aut perferendis doloribus asperiores repellat
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ sed "s/et/ET/g" at.txt >> at.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ head at.txt
+At vero eos ET accusamus ET iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+deleniti atque corrupti quos dolores ET quas molestias excepturi sint occaecati cupiditate non
+provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum ET dolorum fuga.
+Et harum quidem rerum facilis est ET expedita distinctio.
+Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
+maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+Temporibus autem quibusdam ET aut officiis debitis aut rerum necessitatibus saepe eveniET
+ut ET voluptates repudiandae sint ET molestiae non recusandae.
+Itaque earum rerum hic tenETur a sapiente delectus, ut aut reiciendis voluptatibus maiores
+alias consequatur aut perferendis doloribus asperiores repellat
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cat /etc/passwd
+cat: /etc/passwd: No such file or directory
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ more /etc/passwd
+bash: more: command not found
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ echo "$USER"
+
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ whoami
+Yuga 14
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ pwd
+/c/Users/Yuga 14/Ih-Labs/lab-bash/lorem
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$  wc -l sed.txt
+9 sed.txt
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cat sed.txt | wc -l
+9
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs/lab-bash/lorem (master)
+$ cd ../..
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs (main)
+$ nd / -name 'lorem' -print | wc -l
+bash: nd: command not found
+0
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs (main)
+$ find / -name 'lorem' -print | wc -l
+find: failed to read file names from file system at or below ‘/’: No such file or directory
+0
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~/Ih-Labs (main)
+$ cd ..
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ find Ih-Labs/ type lorem* | wc -l
+find: ‘type’: No such file or directory
+find: ‘lorem*’: No such file or directory
+271
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$ find Ih-Labs/ -name lorem* | wc -l
+9
+
+Yuga 14@DESKTOP-TN63B7R MINGW64 ~
+$
